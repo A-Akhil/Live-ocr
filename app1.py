@@ -7,7 +7,7 @@ from PIL import Image
 import numpy as np
 import base64
 
-API_KEY = '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' 
+API_KEY = 'xx' 
 client = Groq(api_key=API_KEY)
 
 st.set_page_config(page_title="Live Handwriting OCR", 

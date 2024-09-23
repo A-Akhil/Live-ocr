@@ -3,7 +3,7 @@ import google.generativeai as genai
 import google.ai.generativelanguage as glm
 from PIL import Image
 
-API_KEY = 'AIzaSyBAbD0NIH0h8xMHAGsVjFvJlOQFT7oxl8E'
+API_KEY = 'xx'
 genai.configure(api_key=API_KEY)
 
 st.set_page_config(page_title="Handwriting OCR", 
