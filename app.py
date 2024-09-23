@@ -8,7 +8,7 @@ import numpy as np
 import threading
 import time
 
-API_KEY = 'xx'
+API_KEY = 'AIzaSyBAbD0NIH0h8xMHAGsVjFvJlOQFT7oxl8E'
 genai.configure(api_key=API_KEY)
 
 st.set_page_config(page_title="Live Handwriting OCR", 
