@@ -1,7 +1,3 @@
-"""
-Orignal Author: DevTechBytes
-https://www.youtube.com/@DevTechBytes
-"""
 from ollama import generate
 from config import Config
 from helpers.image_helper import get_image_bytes

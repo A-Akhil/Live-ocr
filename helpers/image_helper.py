@@ -1,7 +1,3 @@
-"""
-DevTechBytes
-https://www.youtube.com/@DevTechBytes
-"""
 import io
 import tempfile
 from PIL import Image
