@@ -1,7 +1,7 @@
 class Config:
     PAGE_TITLE = "LLava Image Analyzer"
 
-    OLLAMA_MODELS = ('llava:7b-v1.6', 'bakllava','minicpm-v')
+    OLLAMA_MODELS = ('llava:7b-v1.6', 'bakllava','minicpm-v','Bunny-Llama-3-8B-V-int4')
 
     # You can access OLLAMA_MODELS after the class is fully defined
     SYSTEM_PROMPT = f"""You are a helpful OCR bot that has access to the following 
